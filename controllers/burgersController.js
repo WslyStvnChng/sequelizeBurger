@@ -27,16 +27,16 @@ module.exports = function(app) {
   app.put("/burgers/:id", function(req, res) {
     db.Burger.update(
       {
-        burger_name: req.body.burger_name
+        devoured: true
       },
       {
         where: {
-          id: req.body.id
+          id: req.params.id
         }
       }
     ).then(function(dbBurger) {
-      res.json(dbBurger);
-      res.sendStatus(200);
+      console.log(dbBurger);
+      res.end();
     });
   });
 };
