@@ -1,20 +1,27 @@
 {
-  "name": "node_what_todo",
+  "name": "sequelizeburger",
   "version": "1.0.0",
-  "description": "-Node \r -Express \r -MySQL \r -Handlebars \r -Jquery",
+  "description": "",
   "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "mysql": "^2.15.0"
+  },
+  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WslyStvnChng/sequelizeBurger.git"
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "body-parser": "^1.14.2",
-    "express": "^4.13.3",
-    "express-handlebars": "^2.0.1",
-    "mysql": "^2.10.2"
+  "bugs": {
+    "url": "https://github.com/WslyStvnChng/sequelizeBurger/issues"
   },
-  "devDependencies": {
-    // "handlebars-helper-css": "^0.1.0"
-  }
+  "homepage": "https://github.com/WslyStvnChng/sequelizeBurger#readme"
 }
