@@ -15,6 +15,6 @@
     "mysql": "^2.10.2"
   },
   "devDependencies": {
-    "handlebars-helper-css": "^0.1.0"
+    // "handlebars-helper-css": "^0.1.0"
   }
 }
