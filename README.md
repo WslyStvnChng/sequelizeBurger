@@ -1,15 +1,8 @@
-# <h1> <strong>Liri App </strong></h1>
+<h1><strong>Liri App </strong></h1>
 <tr>
-<p>A Full Stack Application 
+<p>Meet Liri - Language Interpretation andRecognition Inferface. LIRI is a command-link node application that takes parameters and returns data.
 </p>
 
-<h2>Getting Started</h2>
-<tr>
-<p>Install:</p>
-<ul>
-<li>Node-Spotify-API</li>
-<li>Twitter</li>
-</ul>
 
 <h2>Built With</h2>
 <ul>
@@ -17,26 +10,15 @@
 <li>Twitter API</li>
 <li>Spotify API</li>
 <li>IMBD API</li>
+  <li>JavaScript</li>
 </ul>
 
-<h2>Application</h2>
-<ol>
-
-<br>
-<!--  -->
-<br>
-
-
-<br>
-<br>
-</ol>
-<br>
-<br>
-<br>
-
-
-<h2><strong>Author</strong></h2>
+<h2>How to Use LIRI</h2>
 <ul>
-<li>Steven Cheng <a href="https://github.com/WslyStvnChng/">Vist my Github</a></li>
-
-
+<li>Open Terminal</li>
+<li>Navigate to folder where LIRI app is located</li>
+<li>Initiate LIRI using "node liri.js"</li>
+<li>Some Command line she knows:</li>
+  <li> "node liri my-tweets"</li>
+  <li>LIRI will return 20 tweets from my own personal account</li>
+</ul>
