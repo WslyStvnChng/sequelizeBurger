@@ -1,4 +1,4 @@
-<h1><strong>Liri App </strong></h1>
+<h1><strong>Get-da-Burger Sequelize Edition</strong></h1>
 <tr>
 <p>Get-da-Burger is a restaurant app that let users input the names of burgers they'd like to eat. Whenever a user submits a burger's name, app displays the burger on the left side of the page--waiting to be devoured. Each burger in the waiting area has a devour button. When the user clicks the devour button, it will move to the right side of the screen.
 </p>
