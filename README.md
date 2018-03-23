@@ -4,6 +4,10 @@
 </p>
   <p>The difference between this application and previous Burger application, this one uses Sequelize instead of building an ORM</p>
 
+<p>Heroku: https://dry-springs-64139.herokuapp.com/</p>
+<br>
+<p>Github: https://wslystvnchng.github.io/sequelizeBurger/</p>
+
 
 <h2>Built With</h2>
 <ul>
